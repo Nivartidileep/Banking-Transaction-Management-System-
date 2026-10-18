@@ -1,0 +1,39 @@
+[
+    {
+        "customer_id": "C101",
+        "name": "Dileep",
+        "phone": "9876543210",
+        "account_number": "1001",
+        "balance": 12500.0,
+        "transactions": [
+            "2026-10-18 19:02:05 - Account opened with Rs.500.00",
+            "2026-10-18 19:03:03 - Deposited Rs.2000.00",
+            "2026-10-18 19:03:24 - Withdrawn Rs.500.00",
+            "2026-10-18 19:04:37 - Withdrawn Rs.1500.00",
+            "2026-10-18 19:09:22 - Deposited Rs.2000.00",
+            "2026-10-18 19:09:38 - Deposited Rs.50000.00",
+            "2026-10-18 19:10:43 - Transferred Rs.40000.00 to 1002"
+        ]
+    },
+    {
+        "customer_id": "2",
+        "name": "Lokesh",
+        "phone": "8000003333",
+        "account_number": "1002",
+        "balance": 40500.0,
+        "transactions": [
+            "2026-10-18 19:08:06 - Account opened with Rs.500.00",
+            "2026-10-18 19:10:43 - Received Rs.40000.00 from 1001"
+        ]
+    },
+    {
+        "customer_id": "3",
+        "name": "pavani",
+        "phone": "5678876556",
+        "account_number": "1003",
+        "balance": 500,
+        "transactions": [
+            "2026-10-18 19:13:17 - Account opened with Rs.500.00"
+        ]
+    }
+]
